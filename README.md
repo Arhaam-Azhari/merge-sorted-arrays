@@ -1,3 +1,5 @@
+CS 151 – Homework 1
+Merge Sorted Arrays
 # Merge Sorted Arrays
 
 This project implements merging of two sorted arrays using Java.
