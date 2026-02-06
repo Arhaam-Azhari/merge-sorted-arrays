@@ -1,3 +1,7 @@
+# Merge Sorted Arrays
+
+This project implements merging of two sorted arrays using Java.
+The project is built using Maven and includes JUnit tests.
 ## How to Run
 
 ```bash
