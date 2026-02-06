@@ -1,3 +1,7 @@
+## How to Run
+
+```bash
+mvn clean test
 # Merge Sorted Arrays
 
 This project implements merging of two sorted arrays in Java.
